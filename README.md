@@ -1,6 +1,6 @@
-# Plot v1
+# Plot V1
 
-This action plots schematics as PDFs and commits them to the repo.
+This action plots KiCad schematics as PDFs and commits them to the repo.
 It's designed to work with [actions/checkout](https://github.com/actions/checkout).
 
 ## Usage
