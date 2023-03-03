@@ -1,0 +1,5 @@
+name: 'Plot'
+description: 'Plot schematics'
+runs:
+  using: docker
+  image: Dockerfile
